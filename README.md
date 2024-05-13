@@ -2,6 +2,13 @@
 
 A simple PHP library for exchanging currencies based on api.frankfurter.app
 
+<p align="center">
+<a href="https://packagist.org/packages/brunoinds/frankfurter-laravel"><img src="https://img.shields.io/packagist/dt/brunoinds/frankfurter-laravel" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/brunoinds/frankfurter-laravel"><img src="https://img.shields.io/packagist/v/brunoinds/frankfurter-laravel" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/brunoinds/frankfurter-laravel"><img src="https://img.shields.io/packagist/l/brunoinds/frankfurter-laravel" alt="License"></a>
+</p>
+
+
 ## Installation
 
 Install via Composer:
